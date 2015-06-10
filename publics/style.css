@@ -1,0 +1,74 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body{
+	background-color: #e5e5e5;
+}
+
+h1{
+	color: #d5d5d5;
+	text-shadow: 1px 1px #f5f5f5, -1px -1px #999;
+	font-size: 40px;
+}
+
+.container{
+	width: 600px;
+	background-color: #e5e5e5;
+	padding: 20px 0px;
+	margin: 20px auto -20px auto;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.list{
+	margin: 0 auto;
+	width: 505px;
+	height: 45px;
+	border: 0px;
+	font-size: 20px;
+	background-color: #fff;
+	color: #444;
+	float: left;
+	border-bottom: 1px dotted #aaa;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	padding-top: 15px;
+}
+.list.top{
+	width: 500px;
+	background-color: #f2f2f2;
+	height: 60px;
+	padding-top: 0px;
+}
+
+.list .right{
+	float: right;
+}
+
+#add-button{
+	width: 97px;
+	height: 60px;
+	background-color:#aaa;
+	border: 1px solid #ddd;
+	float: left;
+	color: #fff;
+	font-weight: 800;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.checkbox-cover{
+	clear: both;
+	background-color: #fff;
+	float: left;
+	width: 50px;
+	height: 41px;
+	padding-top: 20px;
+	border-right: 1px double #ddd;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.right{
+	float: right;
+}
